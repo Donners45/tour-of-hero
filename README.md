@@ -1,1 +1,1 @@
-# tour-of-hero #
+### Nothing special, just another Tour of Heroes app.
